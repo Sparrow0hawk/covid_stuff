@@ -1,0 +1,10 @@
+# gitignore for covid_stuff
+
+# local jupyter book stuff
+**/_build/*
+
+# jupyter stuff
+**/.ipynb_checkpoints/*
+
+# data
+**/notebooks/*.csv
